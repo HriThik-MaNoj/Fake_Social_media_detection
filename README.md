@@ -1,1 +1,2 @@
-# Fake_Social_media_detection
+# Detecting Fake Social Media Profile based on Visible Features
+# Fake Social media detection
